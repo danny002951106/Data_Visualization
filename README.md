@@ -4,6 +4,9 @@ This dashboard aims to provide insights into Coca-Cola's sales performance acros
 
 ## Dashboard Link: 
 https://app.powerbi.com/groups/me/reports/2da4c807-7df9-41da-a458-b4afb944d5ad/ReportSection
+Preview:
+<img width="814" alt="image" src="https://github.com/danny002951106/Data_Visualization/assets/90948199/66e0e53c-be1d-430d-a1f2-8189b575e3b4">
+
 
 ## Sales Analysis
 The dashboard provides a comprehensive analysis of Coca-Cola's sales data, including:
