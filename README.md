@@ -1,4 +1,4 @@
-# Problem Statement
+# Project Introduction
 
 This dashboard aims to provide insights into Coca-Cola's sales performance across different brands and regions. By analyzing sales data, the dashboard helps in understanding consumer preferences, identifying top-selling brands, determining the most profitable regions, and leveraging AI-powered question and answer features to gain actionable insights.
 
