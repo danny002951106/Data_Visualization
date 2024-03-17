@@ -1,6 +1,9 @@
 # Project Introduction
 
-This dashboard aims to provide insights into Coca-Cola's sales performance across different brands and regions. By analyzing sales data, the dashboard helps in understanding consumer preferences, identifying top-selling brands, determining the most profitable regions, and leveraging AI-powered question and answer features to gain actionable insights.
+This dashboard aims to provide insights into Coca-Cola's sales performance across different brands and regions. By analyzing sales data, the dashboard helps in understanding consumer preferences, identifying top-selling brands, determining the most profitable regions, and leveraging AI-powered question-and-answer features to gain actionable insights.
+
+## Dashboard Link: 
+https://app.powerbi.com/groups/me/reports/2da4c807-7df9-41da-a458-b4afb944d5ad/ReportSection
 
 ## Sales Analysis
 The dashboard provides a comprehensive analysis of Coca-Cola's sales data, including:
@@ -12,7 +15,7 @@ The dashboard provides a comprehensive analysis of Coca-Cola's sales data, inclu
 - Top Regions: Identification of top-performing regions based on sales volume or revenue.
 
 ## AI-Powered Questions and Answers
-Utilizing advanced AI technology, the dashboard incorporates a feature for generating and answering relevant questions based on the sales data. Users can interact with the dashboard by asking queries related to sales trends, regional performance, brand popularity, and more. The AI engine provides accurate and insightful responses, enabling users to make informed decisions and strategies.
+Utilizing advanced AI technology, the dashboard incorporates a feature for generating and answering relevant questions based on sales data. Users can interact with the dashboard by asking queries related to sales trends, regional performance, brand popularity, and more. The AI engine provides accurate and insightful responses, enabling users to make informed decisions and strategies.
 
 ## Insights
 The Coca-Cola Sales Dashboard offers valuable insights that can drive strategic decisions and optimize sales strategies:
@@ -46,7 +49,7 @@ The Coca-Cola Sales Dashboard offers valuable insights that can drive strategic 
 
 - Interacting with Visuals: Explore different tabs and visuals to gain insights into sales performance by brand and region.
 
-- AI-Powered Queries: Utilize the question and answer feature to ask specific queries and receive instant responses based on the available sales data.
+- AI-Powered Queries: Utilize the question-and-answer feature to ask specific queries and receive instant responses based on the available sales data.
 
 - Data Export: Export relevant data for further analysis or integration with existing business intelligence tools.
 
